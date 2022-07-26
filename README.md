@@ -27,3 +27,9 @@ https://docs.unity3d.com/kr/2019.4/Manual/UNetLobby.html
 포톤 네트워크 공부하기
 https://computer-art.tistory.com/entry/00-포톤-네트워크-시작하기?category=789685
 https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602gx1
+
+
+------------
+파이어베이스
+>올인원 백엔드 플랫폼, 구글 상품
+>SDK다운 : about:blank
