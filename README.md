@@ -16,3 +16,14 @@
 * 깃 서버에서 변경사항을 받아올 때마다 메타파일이 갱신되는 문제
 ** (에셋 직렬화 방식에서 Force Text가 아닌 사람이 있을때 발생, 에디터에서 버전 컨트롤 방식이 다를때 발생, 유니티 에디터 버전이 다를 때 문제 발생
 -------------
+
+
+방만들기 로비
+https://www.youtube.com/watch?v=pSHmCcpvSZk
+
+유니티에서 제공하는 로비
+https://docs.unity3d.com/kr/2019.4/Manual/UNetLobby.html
+
+포톤 네트워크 공부하기
+https://computer-art.tistory.com/entry/00-포톤-네트워크-시작하기?category=789685
+https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602gx1
