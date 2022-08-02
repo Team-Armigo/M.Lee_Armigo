@@ -13,3 +13,7 @@ FirebaseAuth.유니티패키지
 서명 세팅
 > 서명을 넣어주어야 파베에서 신뢰할수 있는 앱으로 인식
 > Publishing Settings -> KeyStore Manager -> keystore -> Create New -> Anywhere -> 프로젝트 내부에 폴더 생성!-> 패스워드 설정 , Alias설정 및 Alias비번 설정
+> 터미널 -> keystore 폴더로 이동 -> keytool -list -v -alias (alias이름) -keystore 이름.keystore 입력 
+
+**여기서 오류가 생겼다. 자바 런타임이 없어서 에러가 뜬것이다. https://www.lainyzine.com/ko/article/how-to-install-java-runtime-environment-on-macos/ 여기에 나오는 방법을 통해 설치를 하고 실행을 하였더니 실행이 되었다**
+
