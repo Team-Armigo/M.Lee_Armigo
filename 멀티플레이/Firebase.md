@@ -17,3 +17,5 @@ FirebaseAuth.유니티패키지
 
 **여기서 오류가 생겼다. 자바 런타임이 없어서 에러가 뜬것이다. https://www.lainyzine.com/ko/article/how-to-install-java-runtime-environment-on-macos/ 여기에 나오는 방법을 통해 설치를 하고 실행을 하였더니 실행이 되었다**
 
+SHA1: 82:C3:D4:1F:59:97:C4:37:F5:66:50:9A:0B:84:7E:6F:59:B2:F4:98
+-> 디지털 지문 추가
