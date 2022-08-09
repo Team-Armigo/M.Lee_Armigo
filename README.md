@@ -33,3 +33,12 @@ https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602
 파이어베이스
 >올인원 백엔드 플랫폼, 구글 상품
 >SDK다운 : about:blank
+
+-----------
+유니티 override란?
+부모-자식 관계를 이루게 해준다.<br>
+부모: virture<br>
+자식: override<br>
+override를 사용하려면 먼저 부모가 정의되어야 사용할수 있다.<br>
+
+https://luv-n-interest.tistory.com/791
