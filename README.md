@@ -42,3 +42,12 @@ https://www.youtube.com/watch?v=-QsfDgvcheQ&list=PLctzObGsrjfwF7kkoraWb235U8Z602
 override를 사용하려면 먼저 부모가 정의되어야 사용할수 있다.<br>
 
 https://luv-n-interest.tistory.com/791
+
+-------------
+
+##포톤 네트워크 계층구조
+
+00.포톤 서버 접속<br>
+01.마스터 서버에 연결<br>
+02.로비에 접속<br>
+03.방 입장<br>
